@@ -1,4 +1,17 @@
 # Generative Design Decision Explorer
+Live Project
+
+View the deployed dashboard here:
+
+https://generative-design-decision-explorer.vercel.app
+
+Project Summary
+
+Generative Design Decision Explorer is a self-directed Information Science and generative AI project created for my McLaren Racing NEXT 2026 application.
+
+The project shows how AI-generated engineering design options might be organized, compared, and communicated through a decision-support dashboard.
+
+This is a concept project using mock data. The goal is to demonstrate information architecture, generative design workflow understanding, dashboard design, and technical communication.
 
 A self-directed Information Science and generative AI project created for a McLaren Racing NEXT 2026 application proof pack.
 
