@@ -1,0 +1,54 @@
+[
+  {
+    "id": "A",
+    "name": "Option A: Milled Aluminum Rib",
+    "material": "Aluminum 7075",
+    "manufacturing": "3-axis milling",
+    "weightKg": 1.8,
+    "factorOfSafety": 2.1,
+    "estimatedCost": "Medium",
+    "leadTimeDays": 7,
+    "loadCase": "High braking load with moderate torsion",
+    "risk": "Longer machining time and more material waste",
+    "recommendation": "Good baseline option for fast production review"
+  },
+  {
+    "id": "B",
+    "name": "Option B: Titanium Lattice Form",
+    "material": "Titanium Ti-6Al-4V",
+    "manufacturing": "Additive manufacturing",
+    "weightKg": 1.2,
+    "factorOfSafety": 2.6,
+    "estimatedCost": "High",
+    "leadTimeDays": 14,
+    "loadCase": "High braking load with high torsion",
+    "risk": "Higher cost and added validation needs",
+    "recommendation": "Best technical performer for deeper engineering review"
+  },
+  {
+    "id": "C",
+    "name": "Option C: Composite Web Structure",
+    "material": "Carbon fiber composite",
+    "manufacturing": "Composite layup",
+    "weightKg": 0.9,
+    "factorOfSafety": 1.8,
+    "estimatedCost": "High",
+    "leadTimeDays": 18,
+    "loadCase": "Medium braking load with low torsion",
+    "risk": "Complex validation and repair process",
+    "recommendation": "Lightest option, but safety margin needs more review"
+  },
+  {
+    "id": "D",
+    "name": "Option D: Hybrid Aluminum Pocket",
+    "material": "Aluminum 6061",
+    "manufacturing": "5-axis milling",
+    "weightKg": 1.5,
+    "factorOfSafety": 2.3,
+    "estimatedCost": "Medium",
+    "leadTimeDays": 9,
+    "loadCase": "Balanced braking and cornering load",
+    "risk": "Requires more precise machining setup",
+    "recommendation": "Strong balance of weight, safety, cost, and build time"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "partName": "Fictional front suspension mounting bracket",
+  "projectGoal": "Reduce part weight while keeping a safe strength margin for race conditions.",
+  "preserveGeometry": ["Bolt holes", "Bearing seat", "Chassis mount contact points"],
+  "obstacleGeometry": ["Suspension arm travel zone", "Brake duct clearance", "Wheel assembly clearance"],
+  "loadsAndForces": ["500 lb braking force", "200 lb torsional load", "High vibration environment"],
+  "materials": ["Aluminum 7075", "Titanium Ti-6Al-4V", "Carbon fiber composite", "Aluminum 6061"],
+  "manufacturingMethods": ["3-axis milling", "5-axis milling", "Additive manufacturing", "Composite layup"],
+  "decisionRules": ["Prefer factor of safety above 2.0", "Reduce weight where possible", "Flag high cost or long lead time", "Treat all data as mock portfolio data"]
+}
